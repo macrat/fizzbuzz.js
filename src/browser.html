@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <script src="https://unpkg.com/vue@2.6.x/dist/vue.js"></script>
+
+    <style>
+button {
+    width: 100%;
+}
+article {
+    display: flex;
+}
+section {
+    margin: 8px 16px;
+}
+    </style>
+
+    <script type=module>
+import {range, replace, modRule} from './fizzbuzz.mjs';
+
+new Vue({
+    el: 'main',
+    data: {
+        from: 1,
+        to: 30,
+        step: 1,
+        rules: [[15, 'FizzBuzz'], [5, 'Fizz'], [3, 'Buzz']],
+    },
+    computed: {
+        lists() {
+            return [
+                ["普通のFizzBuzz", replace(range(this.from, this.to, this.step), this.rules.map(x => modRule(x[0], x[1])))],
+
+                ["序数表示", replace(range(this.from, this.to, this.step), [
+                    x => [x == 1 || x > 20 && x%10 == 1, `${x}st`],
+                    x => [x == 2 || x > 20 && x%10 == 2, `${x}nd`],
+                    x => [x == 3 || x > 20 && x%10 == 3, `${x}rd`],
+                    x => [true, `${x}th`],
+                ])],
+
+                ["FizzBuzz+序数表示", replace(range(this.from, this.to, this.step), [
+                    ...this.rules.map(x => modRule(x[0], x[1])),
+                    x => [x == 1 || x > 20 && x%10 == 1, `${x}st`],
+                    x => [x == 2 || x > 20 && x%10 == 2, `${x}nd`],
+                    x => [x == 3 || x > 20 && x%10 == 3, `${x}rd`],
+                    x => [true, `${x}th`],
+                ])],
+            ];
+        },
+    },
+});
+    </script>
+</head>
+
+<body>
+    <main>
+        <nav>
+            <section>
+                <table>
+                    <tr><th>何の倍数で</th><th>何に置換する</th><th></th></tr>
+                    <tr v-for="r in rules">
+                        <td><input v-model=r[0]></td>
+                        <td><input v-model=r[1]></td>
+                        <td><button @click="rules = rules.filter(x => x !== r)">削除</button></td>
+                    </tr>
+                    <tr><td colspan=3><button @click="rules.push([1, ''])">追加</button></td></tr>
+                </table>
+            </section>
+            <section>
+                <label>開始: <input type=number v-model=from></label>
+                <label>終了: <input type=number v-model=to></label>
+                <label>増加/減少: <input type=number v-model=step></label>
+            </section>
+        </nav>
+
+        <article>
+            <section v-for="[name, list] in lists">
+                <h2>{{ name }}</h2>
+                <ul>
+                    <li v-for="x in list">{{ x }}</li>
+                </ul>
+            </section>
+        </article>
+    </main>
+</body>

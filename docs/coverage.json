@@ -1,0 +1,17 @@
+{
+  "coverage": "100%",
+  "expectCount": 6,
+  "actualCount": 6,
+  "files": {
+    "src/console.mjs": {
+      "expectCount": 3,
+      "actualCount": 3,
+      "undocumentLines": []
+    },
+    "src/fizzbuzz.mjs": {
+      "expectCount": 3,
+      "actualCount": 3,
+      "undocumentLines": []
+    }
+  }
+}

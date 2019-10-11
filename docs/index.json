@@ -1,0 +1,1030 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/console.mjs",
+    "content": "/**\n * コンソール表示で使う場合の例。\n */\n\nimport {range, replace, modRule} from './fizzbuzz.mjs';\n\n\n/**\n * 普通のFizzBuzzを表示する例。\n */\nfunction NormalFizzBuzz() {\n    console.log('===== 普通のFizzBuzz ==========');\n    replace(range(1, 30), [\n        modRule(15, 'FizzBuzz'),\n        modRule(5, 'Fizz'),\n        modRule(3, 'Buzz'),\n    ]).forEach(x => console.log(x))\n}\n\n\n/**\n * 数字を英語の序数に変換して表示する例。\n */\nfunction OrderedNumber() {\n    console.log('\\n===== 序数で表示する ==========');\n    replace(range(1, 30), [\n        x => [x == 1 || x > 20 && x%10 == 1, `${x}st`],\n        x => [x == 2 || x > 20 && x%10 == 2, `${x}nd`],\n        x => [x == 3 || x > 20 && x%10 == 3, `${x}rd`],\n        x => [true, `${x}th`],\n    ]).forEach(x => console.log(x))\n}\n\n\n/**\n * 普通のFizzBuzzを実行した上で、数字の部分を序数にした例。\n */\nfunction OrderedFizzBuzz() {\n    console.log('\\n===== FizzBuzz + 序数 ==========');\n    replace(range(1, 30), [\n        modRule(15, 'FizzBuzz'),\n        modRule(5, 'Fizz'),\n        modRule(3, 'Buzz'),\n        x => [x == 1 || x > 20 && x%10 == 1, `${x}st`],\n        x => [x == 2 || x > 20 && x%10 == 2, `${x}nd`],\n        x => [x == 3 || x > 20 && x%10 == 3, `${x}rd`],\n        x => [true, `${x}th`],\n    ]).forEach(x => console.log(x))\n}\n\n\nNormalFizzBuzz();\nOrderedNumber();\nOrderedFizzBuzz();\n",
+    "static": true,
+    "longname": "/mnt/tmpfs/fizzbuzz.js/src/console.mjs",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "NormalFizzBuzz",
+    "memberof": "src/console.mjs",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/console.mjs~NormalFizzBuzz",
+    "access": "public",
+    "export": false,
+    "importPath": "fizzbuzz/src/console.mjs",
+    "importStyle": null,
+    "description": "普通のFizzBuzzを表示する例。",
+    "lineNumber": 11,
+    "params": [],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "function",
+    "name": "OrderedNumber",
+    "memberof": "src/console.mjs",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/console.mjs~OrderedNumber",
+    "access": "public",
+    "export": false,
+    "importPath": "fizzbuzz/src/console.mjs",
+    "importStyle": null,
+    "description": "数字を英語の序数に変換して表示する例。",
+    "lineNumber": 24,
+    "params": [],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "OrderedFizzBuzz",
+    "memberof": "src/console.mjs",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/console.mjs~OrderedFizzBuzz",
+    "access": "public",
+    "export": false,
+    "importPath": "fizzbuzz/src/console.mjs",
+    "importStyle": null,
+    "description": "普通のFizzBuzzを実行した上で、数字の部分を序数にした例。",
+    "lineNumber": 38,
+    "params": [],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/fizzbuzz.mjs",
+    "content": "/**\n * 汎用的な部分の実装。数列生成の{@link range}と、値の置換をする{@link replace}など。\n */\n\n\n/**\n * 等差数列を生成する。\n *\n * @param {int} from     - 数列を開始する値。\n * @param {int} to       - 数列を終了する値。\n * @param {int} [step=1] - それぞれの数の間の差。\n *\n * @throws  {Error} - stepの値が無効な場合は例外を送出する。\n * @returns {int[]} - 生成された数列。\n */\nexport function range(from, to, step = 1) {\n    const result = [from];\n    const num = (parseInt(to) - parseInt(from)) / parseInt(step);\n\n    if (num < 0) {\n        throw new Error('invalid step');\n    }\n\n    for (let i=1; i<=num; i++) {\n        result.push(parseInt(from) + i * parseInt(step));\n    }\n\n    return result;\n}\n\n\n/**\n * 置換を行なうかどうかや、何に置換するかを決定する関数。\n *\n * @typedef {function} ReplaceRule\n *\n * @param {any} value - 置換するかどうかを決めたい値。\n *\n * @returns {[boolean, any]} - 置換を行なうかどうかのフラグと、置換後の値。\n */\n\n\n/**\n * 配列の各要素を確認し、条件に当て嵌まるのなら置換を行なう。\n *\n * @param {any[]}         items - 置換を行ないたい配列。\n * @param {ReplaceRule[]} rules - 置換の方法を決める{@link ReplaceRule}の配列。最初に当て嵌まったルールだけが適用される。\n *\n * @returns {any[]} - 必要に応じて要素が置換された配列。\n */\nexport function replace(items, rules) {\n    return items.map(x => {\n        for (let f of rules) {\n            const [flag, replace] = f(x);\n            if (flag) {\n                return replace;\n            }\n        }\n        return x;\n    });\n}\n\n\n/**\n * 特定の数値の倍数が来た場合に、別の値に置換する{@link ReplaceRule}を生成する。\n *\n * @param {int} num     - 何の倍数で置換を行なうか\n * @param {any} replace - 置換後の値。\n *\n * @returns {ReplaceRule} - {@link replace}に渡すためのルール関数。\n */\nexport function modRule(num, replace) {\n    return x => [x%num == 0, replace];\n}\n",
+    "static": true,
+    "longname": "/mnt/tmpfs/fizzbuzz.js/src/fizzbuzz.mjs",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "range",
+    "memberof": "src/fizzbuzz.mjs",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fizzbuzz.mjs~range",
+    "access": "public",
+    "export": true,
+    "importPath": "fizzbuzz",
+    "importStyle": "{range}",
+    "description": "等差数列を生成する。",
+    "lineNumber": 16,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{int[]} - 生成された数列。"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "int"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "from",
+        "description": "数列を開始する値。"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "int"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "to",
+        "description": "数列を終了する値。"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "int"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "1",
+        "defaultRaw": 1,
+        "name": "step",
+        "description": "それぞれの数の間の差。"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "int[]"
+      ],
+      "spread": false,
+      "description": "生成された数列。"
+    },
+    "throws": [
+      {
+        "types": [
+          "Error"
+        ],
+        "description": "stepの値が無効な場合は例外を送出する。"
+      }
+    ]
+  },
+  {
+    "__docId__": 54,
+    "kind": "typedef",
+    "name": "ReplaceRule",
+    "memberof": "src/fizzbuzz.mjs",
+    "static": true,
+    "longname": "src/fizzbuzz.mjs~ReplaceRule",
+    "access": "public",
+    "description": "置換を行なうかどうかや、何に置換するかを決定する関数。",
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{[boolean, any]} - 置換を行なうかどうかのフラグと、置換後の値。"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": "置換するかどうかを決めたい値。"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "[boolean, any]"
+      ],
+      "spread": false,
+      "description": "置換を行なうかどうかのフラグと、置換後の値。"
+    },
+    "type": {
+      "types": [
+        "function"
+      ],
+      "optional": false,
+      "name": "ReplaceRule"
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "replace",
+    "memberof": "src/fizzbuzz.mjs",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fizzbuzz.mjs~replace",
+    "access": "public",
+    "export": true,
+    "importPath": "fizzbuzz",
+    "importStyle": "{replace}",
+    "description": "配列の各要素を確認し、条件に当て嵌まるのなら置換を行なう。",
+    "lineNumber": 51,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{any[]} - 必要に応じて要素が置換された配列。"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "items",
+        "description": "置換を行ないたい配列。"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "ReplaceRule[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "rules",
+        "description": "置換の方法を決める{@link ReplaceRule}の配列。最初に当て嵌まったルールだけが適用される。"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "any[]"
+      ],
+      "spread": false,
+      "description": "必要に応じて要素が置換された配列。"
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "function",
+    "name": "modRule",
+    "memberof": "src/fizzbuzz.mjs",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fizzbuzz.mjs~modRule",
+    "access": "public",
+    "export": true,
+    "importPath": "fizzbuzz",
+    "importStyle": "{modRule}",
+    "description": "特定の数値の倍数が来た場合に、別の値に置換する{@link ReplaceRule}を生成する。",
+    "lineNumber": 72,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{ReplaceRule} - {@link replace}に渡すためのルール関数。"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "int"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "num",
+        "description": "何の倍数で置換を行なうか"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "replace",
+        "description": "置換後の値。"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "ReplaceRule"
+      ],
+      "spread": false,
+      "description": "{@link replace}に渡すためのルール関数。"
+    }
+  },
+  {
+    "kind": "index",
+    "content": "FizzBuzz.js\n===========\n\n[![document](https://macrat.github.io/fizzbuzz.js/badge.svg)](https://macrat.github.io/fizzbuzz.js)\n\njavascriptで比較的丁寧に書いたFizzBuzz。\n\n\n## 試し方\n\n### ブラウザで実行する\n\n以下のURLから実行出来ます。\n\n[https://macrat.github.io/fizzbuzz.js/web-ui.html](https://macrat.github.io/fizzbuzz.js/web-ui.html)\n\n### コンソールで実行する\n\n以下のコマンドで実行出来ます。\n\n``` shell\n$ git clone https://github.com/macrat/fizzbuzz.js.git\n$ cd fizzbuzz.js\n$ npm start\n```\n\n\n## 含まれているファイル\n\n- [src/fizzbuzz.mjs](https://macrat.github.io/fizzbuzz.js/file/src/fizzbuzz.mjs.html): 汎用的な部分の実装\n- [src/console.mjs](https://macrat.github.io/fizzbuzz.js/file/src/console.mjs.html): `npm start` した際に実行されるコンソール向けの実装\n- [src/browser.html](https://github.com/macrat/fizzbuzz.js/blob/master/browser.html): [github.ioのプレビューページ](https://macrat.github.io/fizzbuzz.js/web-ui.html)で表示されるHTMLファイル\n- [test/fizzbuzz.mjs](https://macrat.github.io/fizzbuzz.js/test-file/test/fizzbuzz.mjs.html): `src/fizzbuzz.mjs` のテストコード\n\n\n## 構造の説明\n\nこのFizzBuzzは、以下の関数の組み合わせで実行されています。\n\n1. [range関数](https://macrat.github.io/fizzbuzz.js/function/index.html#static-function-range)で数字が入った配列を生成する。\n2. [replace関数](https://macrat.github.io/fizzbuzz.js/function/index.html#static-function-replace)で、条件に当て嵌まる数字を別の値に置き換える。\n3. 配列に実装されている `forEach` メソッドなどを利用して出力する。\n\n[range関数](https://macrat.github.io/fizzbuzz.js/function/index.html#static-function-range)はjavascript組み込みの配列を返すだけの関数なので、別の方法に置き換えることが出来ます。\n[replace関数](https://macrat.github.io/fizzbuzz.js/function/index.html#static-function-replace)も同様に他の方法を使えます。\nそれぞれの組み合わせ方や中身を入れ替えることで、容易に仕様を変更することが出来ます。\n",
+    "longname": "/mnt/tmpfs/fizzbuzz.js/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"fizzbuzz\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"src/fizzbuzz.mjs\",\n  \"scripts\": {\n    \"start\": \"node --experimental-modules src/console.mjs\",\n    \"build\": \"esdoc\",\n    \"test\": \"mocha-esm test/fizzbuzz.mjs\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/macrat/fizzbuzz.js.git\"\n  },\n  \"author\": \"MacRat <m@crat.jp> (https://blanktar.jp)\",\n  \"license\": \"MIT\",\n  \"bugs\": {\n    \"url\": \"https://github.com/macrat/fizzbuzz.js/issues\"\n  },\n  \"homepage\": \"https://github.com/macrat/fizzbuzz.js#readme\",\n  \"devDependencies\": {\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"mocha-esm\": \"^1.1.1\",\n    \"power-assert\": \"^1.6.1\"\n  },\n  \"esdoc\": {\n    \"source\": \"./src\",\n    \"includes\": [\n      \"\\\\.m?js$\"\n    ],\n    \"destination\": \"./docs\",\n    \"plugins\": [\n      {\n        \"name\": \"esdoc-standard-plugin\",\n        \"option\": {\n          \"test\": {\n            \"source\": \"./test\",\n            \"includes\": [\n              \"\\\\.m?js$\"\n            ]\n          }\n        }\n      }\n    ]\n  }\n}\n",
+    "longname": "/mnt/tmpfs/fizzbuzz.js/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "__docId__": 57,
+    "kind": "testFile",
+    "name": "test/fizzbuzz.mjs",
+    "content": "import assert from 'power-assert';\n\nimport {range, replace, modRule} from '../src/fizzbuzz.mjs';\n\n\n/** @test {range} */\ndescribe('range', () => {\n    it('ascending list', () => {\n        assert.deepStrictEqual(range(1, 5), [1, 2, 3, 4, 5]);\n        assert.deepStrictEqual(range(1, 5, 2), [1, 3, 5]);\n        assert.deepStrictEqual(range(0, 5, 2), [0, 2, 4]);\n    });\n\n    it('descending list', () => {\n        assert.deepStrictEqual(range(5, 1, -1), [5, 4, 3, 2, 1]);\n        assert.deepStrictEqual(range(5, 1, -2), [5, 3, 1]);\n        assert.deepStrictEqual(range(5, 0, -2), [5, 3, 1]);\n    });\n\n    it('negative value', () => {\n        assert.deepStrictEqual(range(-5, 0), [-5, -4, -3, -2, -1, 0]);\n        assert.deepStrictEqual(range(-2, 2), [-2, -1, 0, 1, 2]);\n        assert.deepStrictEqual(range(2, -2, -1), [2, 1, 0, -1, -2]);\n    });\n\n    it('invalid step', () => {\n        assert.throws(() => range(0, 10, -1), /^Error: invalid step$/);\n        assert.throws(() => range(10, 0, 1), /^Error: invalid step$/);\n    });\n});\n\n\n/** @test {replace} */\ndescribe('replace', () => {\n    it('simple replace', () => {\n        assert.deepStrictEqual(\n            replace([1, 2, 3, 4, 5], [\n                x => [x%2 == 0, '*'],\n            ]),\n            [1, '*', 3, '*', 5],\n        );\n    });\n\n    it('default value', () => {\n        assert.deepStrictEqual(\n            replace([1, 2, 3, 4, 5], [\n                x => [x%2 == 0, x],\n                x => [true, '*'],\n            ]),\n            ['*', 2, '*', 4, '*'],\n        );\n    });\n});\n\n\n/** @test {modRule} */\ndescribe('modRule', () => {\n    it('simple', () => {\n        assert.deepStrictEqual(modRule(2, '*')(2), [true, '*']);\n        assert.deepStrictEqual(modRule(2, '*')(3), [false, '*']);\n    });\n});\n",
+    "static": true,
+    "longname": "/mnt/tmpfs/fizzbuzz.js/test/fizzbuzz.mjs",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "test",
+    "name": "describe0",
+    "testId": 0,
+    "memberof": "test/fizzbuzz.mjs",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/fizzbuzz.mjs~describe0",
+    "access": null,
+    "description": "range",
+    "lineNumber": 7,
+    "testTargets": [
+      "range"
+    ]
+  },
+  {
+    "__docId__": 59,
+    "kind": "test",
+    "name": "it1",
+    "testId": 1,
+    "memberof": "test/fizzbuzz.mjs~describe0",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/fizzbuzz.mjs~describe0.it1",
+    "access": null,
+    "description": "ascending list",
+    "lineNumber": 8
+  },
+  {
+    "__docId__": 60,
+    "kind": "test",
+    "name": "it2",
+    "testId": 2,
+    "memberof": "test/fizzbuzz.mjs~describe0",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/fizzbuzz.mjs~describe0.it2",
+    "access": null,
+    "description": "descending list",
+    "lineNumber": 14
+  },
+  {
+    "__docId__": 61,
+    "kind": "test",
+    "name": "it3",
+    "testId": 3,
+    "memberof": "test/fizzbuzz.mjs~describe0",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/fizzbuzz.mjs~describe0.it3",
+    "access": null,
+    "description": "negative value",
+    "lineNumber": 20
+  },
+  {
+    "__docId__": 62,
+    "kind": "test",
+    "name": "it4",
+    "testId": 4,
+    "memberof": "test/fizzbuzz.mjs~describe0",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/fizzbuzz.mjs~describe0.it4",
+    "access": null,
+    "description": "invalid step",
+    "lineNumber": 26
+  },
+  {
+    "__docId__": 63,
+    "kind": "test",
+    "name": "describe5",
+    "testId": 5,
+    "memberof": "test/fizzbuzz.mjs",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/fizzbuzz.mjs~describe5",
+    "access": null,
+    "description": "replace",
+    "lineNumber": 34,
+    "testTargets": [
+      "replace"
+    ]
+  },
+  {
+    "__docId__": 64,
+    "kind": "test",
+    "name": "it6",
+    "testId": 6,
+    "memberof": "test/fizzbuzz.mjs~describe5",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/fizzbuzz.mjs~describe5.it6",
+    "access": null,
+    "description": "simple replace",
+    "lineNumber": 35
+  },
+  {
+    "__docId__": 65,
+    "kind": "test",
+    "name": "it7",
+    "testId": 7,
+    "memberof": "test/fizzbuzz.mjs~describe5",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/fizzbuzz.mjs~describe5.it7",
+    "access": null,
+    "description": "default value",
+    "lineNumber": 44
+  },
+  {
+    "__docId__": 66,
+    "kind": "test",
+    "name": "describe8",
+    "testId": 8,
+    "memberof": "test/fizzbuzz.mjs",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/fizzbuzz.mjs~describe8",
+    "access": null,
+    "description": "modRule",
+    "lineNumber": 57,
+    "testTargets": [
+      "modRule"
+    ]
+  },
+  {
+    "__docId__": 67,
+    "kind": "test",
+    "name": "it9",
+    "testId": 9,
+    "memberof": "test/fizzbuzz.mjs~describe8",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/fizzbuzz.mjs~describe8.it9",
+    "access": null,
+    "description": "simple",
+    "lineNumber": 58
+  }
+]
