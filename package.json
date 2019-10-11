@@ -5,7 +5,7 @@
   "main": "src/fizzbuzz.mjs",
   "scripts": {
     "start": "node --experimental-modules src/console.mjs",
-    "build": "esdoc",
+    "build": "esdoc && mkdir -p docs/demo && cp {src,docs/demo}/fizzbuzz.mjs && cp src/browser.html docs/demo/index.html",
     "test": "mocha-esm test/fizzbuzz.mjs"
   },
   "repository": {
